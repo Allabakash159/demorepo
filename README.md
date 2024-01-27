@@ -1,3 +1,3 @@
 # demorepo
-this if for git deme
+this if for git demo
 hi 
